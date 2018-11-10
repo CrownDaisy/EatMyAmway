@@ -3,6 +3,9 @@
 #### 1.ieaseMusic
 优点：  
 
+#### 2.EasyNewFile
+优点：右击新建文件、打开terminal、复制当前路径（亦是开发者利器）
+
 
 ## 开发工具
 #### 1.Mxsrvs
